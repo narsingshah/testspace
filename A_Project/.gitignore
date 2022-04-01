@@ -1,0 +1,6 @@
+# logs
+
+git_record.log
+
+# ignoring log directories
+AutoGenLogs/*
